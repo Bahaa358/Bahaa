@@ -1,3 +1,3 @@
 function test(){
-    alert("Full Stack Training")
+    alert("Full Stack Training (Web Developer)")
 }
